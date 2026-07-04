@@ -1,4 +1,4 @@
-Pringle Prints Proxies
+HOW-TO
 
 Create a decklist. My personal recommendation is Moxfield, another popular option is Archidekt.
 Go to Proxxied proxy builder.
