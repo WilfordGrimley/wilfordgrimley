@@ -3,7 +3,7 @@
 1. **Create a decklist**. My personal recommendation is [Moxfield](https://moxfield.com/), another popular option is [Archidekt](https://archidekt.com/).
 2. **Go to [Proxxied](https://proxxied.com/)** proxy builder.
 3.  **Select MPC Autofill** on the left side of the page under 'Preferred Art Source'.
-![Preferred Art Source](/docs/assets/Preffered Art Source.png)
+![Preferred Art Source](/docs/assets/Preferred-Art-Source.png)
 4. **Import your cards.** Be aware that if you import via url it will include your maybe and sideboards which takes up a lot of memory while editing.
 You can check auto import tokens before importing.
 You can export just your mainboard and commander from the deckbuilding sites; copy-paste.
