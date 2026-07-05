@@ -4,7 +4,7 @@
 2. **Go to [Proxxied](https://proxxied.com/)** proxy builder.
 3.  **Select MPC Autofill** on the left side of the page under 'Preferred Art Source'.
 
-![Preferred Art Source Selection MPC Fill](assets/images/Preferred-Art-Source.png)
+![Preferred Art Source Selection MPC Fill](assets/images/preferred-art-source.png)
 
 4. **Import your cards.** Be aware that if you import via url it will include your maybe and sideboards which takes up a lot of memory while editing.
 You can check auto import tokens before importing.
@@ -14,5 +14,5 @@ If the art you want is not available, custom cards can be created using [CardCon
 6. **Select a cardback.** Flip one of the cards, select a cardback and apply to all backs.
 7. **Export MPC art selection.** On the right side of the page, under 'Export' select 'Copy Decklist - With MPC Art IDs'. Alternatively make an account on Proxxied and create a share link from the top right of the page.
 ![](assets/images/Copy-Decklist.png)
-![](assets/images/share-link.png)
+![](assets/images/sharelink.png)
 8. **Email me** your decklist: [pringle@proxyprints.ca](mailto:pringle@proxyprints.ca)
