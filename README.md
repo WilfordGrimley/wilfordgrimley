@@ -2,9 +2,10 @@
 
 1. **Create a decklist**. My personal recommendation is [Moxfield](https://moxfield.com/), another popular option is [Archidekt](https://archidekt.com/).
 2. **Go to [Proxxied](https://proxxied.com/)** proxy builder.
+3.  **Select MPC Autofill**
 <details>
   <summary>
-    3.  **Select MPC Autofill** on the left side of the page under 'Preferred Art Source'.
+    on the left side of the page under 'Preferred Art Source'.
   </summary>
   <img src="assets/images/preferred-art-source.png" alt="Preferred Art Source Selection MPC Fill" width="50%"/>
 </details>
