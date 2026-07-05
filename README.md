@@ -15,9 +15,9 @@ You can export just your mainboard and commander from the deckbuilding sites; co
 5. **Select art!** Click on each card and find the art you like the best from the ones available on MPCautofill. There are sort options available, and you can set specific tags and proxy artist sources as favorites to make importing future decks much quicker.
 If the art you want is not available, custom cards can be created using [CardConjurer](https://cardconjurer.app/), and art upscaled with [Upscayl](https://upscayl.org/). You can also select Scryfall as a source if needed.
 6. **Select a cardback.** Flip one of the cards, select a cardback and apply to all backs.
-7. **Export MPC art selection.** On the right side of the page, under 'Export'
+7. **Export MPC art selection.**
 <details>
-  <summary>select 'Copy Decklist - With MPC Art IDs'.</summary>
+  <summary>On the right side of the page under 'Export', select 'Copy Decklist - With MPC Art IDs'.</summary>
   <img src="assets/images/Copy-Decklist.png" alt="Copy Decklist Button" width="50%"/>
 </details>
 <details>
