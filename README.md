@@ -13,6 +13,7 @@ You can export just your mainboard and commander from the deckbuilding sites; co
 If the art you want is not available, custom cards can be created using [CardConjurer](https://cardconjurer.app/), and art upscaled with [Upscayl](https://upscayl.org/). You can also select Scryfall as a source if needed.
 6. **Select a cardback.** Flip one of the cards, select a cardback and apply to all backs.
 7. **Export MPC art selection.** On the right side of the page, under 'Export' select 'Copy Decklist - With MPC Art IDs'. Alternatively make an account on Proxxied and create a share link from the top right of the page.
-![](assets/images/Copy-Decklist.png)
+
+<img src="assets/images/Copy-Decklist.png" alt="Copy Decklist Button" width="50%"/>
 ![](assets/images/sharelink.png)
 8. **Email me** your decklist: [pringle@proxyprints.ca](mailto:pringle@proxyprints.ca)
