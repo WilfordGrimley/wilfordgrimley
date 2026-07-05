@@ -4,7 +4,7 @@
 2. **Go to [Proxxied](https://proxxied.com/)** proxy builder.
 3.  **Select MPC Autofill** on the left side of the page under 'Preferred Art Source'.
 
-![Preferred Art Source Selection MPC Fill](assets/preferred-art-source.png)
+![Preferred Art Source Selection MPC Fill](assets/images/preferred-art-source.png)
 
 4. **Import your cards.** Be aware that if you import via url it will include your maybe and sideboards which takes up a lot of memory while editing.
 You can check auto import tokens before importing.
