@@ -26,4 +26,4 @@ If the art you want is not available, custom cards can be created using [CardCon
   </summary>
   <img src="assets/images/sharelink.png" alt="Share Link Button" width="50%"/>
 </details>
-8. **Email me** your decklist: [pringle@proxyprints.ca](mailto:pringle@proxyprints.ca)
+8. [**Email Pringle** your MPC ArtID decklist!](mailto:pringle@proxyprints.ca)
