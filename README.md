@@ -1,6 +1,6 @@
 # HOW-TO
 
-1. **Create a decklist**. My personal recommendation is [Moxfield](https://moxfield.com/), another popular option is [Archidekt](https://archidekt.com/).
+1. **Create a decklist**. My personal recommendation is [Moxfield](https://moxfield.com/) with the [tagger addon](https://github.com/natefinch/moxtags/tree/main), another popular option is [Archidekt](https://archidekt.com/).
 2. **Go to [Proxxied](https://proxxied.com/)** proxy builder.
 3.  **VERY IMPORTANT Select MPC Autofill**
     <details>
