@@ -20,7 +20,7 @@ If the art you want is not available, custom cards can be created using [CardCon
       <summary>On the right side of the page under 'Export', select 'Copy Decklist - With MPC Art IDs'.</summary>
       <img src="assets/images/Copy-Decklist.png" alt="Copy Decklist Button" width="50%"/>
     </details>
-    It is important you copy the MPC Art ID and not the basic decklist.
+    **It is important you copy the MPC Art ID and not the basic decklist.**
     <details>
       <summary>
         Alternatively make an account on Proxxied and create a share link from the top right of the page.
