@@ -28,3 +28,13 @@ If the art you want is not available, custom cards can be created using [CardCon
       <img src="assets/images/sharelink.png" alt="Share Link Button" width="50%"/>
     </details>
 8. [**Email Pringle** your MPC ArtID decklist!](mailto:pringle@proxyprints.ca)
+<div id="my-form"></div>
+<script src="https://www.staticforms.dev/scripts/staticforms.js" defer></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    StaticForms.render(
+      document.getElementById('my-form'),
+      'sf_789b71c9e3edd05e34e6360f'
+    );
+  });
+</script>
